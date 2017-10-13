@@ -8,7 +8,21 @@ License: Apache 2.0
 
 Tutorials on how to build, run, and analyse a model with the Calliope framework. Sets of tutorials are given for each version of calliope, to avoid backwards-incompatibility, with the relevant requirements file given in each directory.
 
+## Current tutorials
+
+Below is a list of current tutorials in this repository, click on any of interest to view the notebooks.
+
+### Latest
+
+- [Urban scale with MILP functionality](http://nbviewer.jupyter.org/github/calliope-project/calliope-tutorials/blob/master/0.5.3/UrbanScale_MILP.ipynb)
+
+- [National Scale](http://nbviewer.jupyter.org/github/calliope-project/calliope-tutorials/blob/master/0.5.3/NationalScale.ipynb)
+
+### Previous versions
+
 ## Setup
+
+In order to edit the notebooks, you will need to have operate on local versions of them. If you are unfamiliar with creating and using conda environments and/or Jupyter notebooks, then you can follow the instructions below.
 
 ### 1. Install the Anaconda Python distribution
 
