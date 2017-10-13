@@ -1,0 +1,10 @@
+name: calliope-tutorials-0.5.3
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - calliope=0.5.3
+    - plotly=2.0.15
+    - notebook=5.1.0
+    - pip:
+        - cufflinks==0.12.0
